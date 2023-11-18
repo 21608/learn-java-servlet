@@ -1,0 +1,3 @@
+gradle-servlet/.gitattributes
+gradle-servlet/.vscode/settings.json
+*.class
